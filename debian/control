@@ -1,0 +1,18 @@
+Source: groff
+Section: unknown
+Priority: optional
+Maintainer: Jackson Hansen <madjack971@bsdmail.com>
+Build-Depends: debhelper-compat (= 13), dh-autoreconf
+Standards-Version: 4.5.1
+Homepage: https://www.gnu.org/software/groff/
+Rules-Requires-Root: no
+Vcs-Git: https://github.com/maddjack2020/groff.git
+Vcs-Browser: https://github.com/maddjack2020/groff
+
+Package: groff
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: auto-generated package by debmake
+ The Groff package contains programs for processing and formatting text and
+ images.

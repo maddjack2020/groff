@@ -1,0 +1,6 @@
+groff (1.23.0-1) mantic; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- Jackson Hansen <madjack971@bsdmail.com>  Tue, 19 Sep 2023 22:14:15 -0700
